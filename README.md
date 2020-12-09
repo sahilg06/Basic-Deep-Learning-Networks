@@ -1,1 +1,1 @@
-# Fully_Connected-Network-for-CIFAR-10
+# Basic Deep Learning Networks
